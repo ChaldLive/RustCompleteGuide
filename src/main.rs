@@ -1,6 +1,7 @@
+use std::convert::From;
 // use std::option::Option;
 // use std::option::Option::Some;
-use std::string::ToString;
+use std::string::{String, ToString};
 use std::vec::Vec;
 
 #[derive(Debug)]
